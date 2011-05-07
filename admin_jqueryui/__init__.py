@@ -1,5 +1,7 @@
 from django.contrib.admin.options import ModelAdmin
 
+version = '1.0.0'
+
 old_media = ModelAdmin._media
 
 

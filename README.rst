@@ -4,9 +4,6 @@ django-admin-jqueryui
 
 This app adds jQuery UI to your Django admin panel.
 
-More developement is to be done soon, including a tailored CSS 
-package of look similar to the built in admin.
-
 Installation
 ------------
 
