@@ -2,18 +2,16 @@
 
 from setuptools import find_packages, setup
 
-version = __import__('admin_jqueryui').__version__
-
 setup(
     name='django-admin-jqueryui',
-    version=version,
+    version='1.0.0',
     author='Piotr Kilczuk -- Hint',
     author_email='piotr@hint.pl',
     url='https://github.com/hint/django-admin-jqueryui',
     description='Simply adds a jquery ui to the admin panel',
     #packages = ['inline_ordering',],
     packages=find_packages(),
-    provides=['admin_jqueryui',],
+    provides=['admin_jqueryui', ],
     include_package_data=True,
     classifiers=[
         'Framework :: Django',
