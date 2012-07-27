@@ -1,5 +1,9 @@
-dist
-*.egg-info
-future
-*project
 *.pyc
+
+*project
+.idea/
+
+*.egg-info
+dist
+
+future
