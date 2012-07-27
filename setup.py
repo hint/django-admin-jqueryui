@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='django-admin-jqueryui',
-    version='1.0.0',
+    version='1.8.11',
     author='Piotr Kilczuk -- Hint',
     author_email='piotr@hint.pl',
     url='https://github.com/hint/django-admin-jqueryui',
